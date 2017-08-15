@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
   
 import socket, struct, binascii
 global IP, TCP, UDP, HTTP
